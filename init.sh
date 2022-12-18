@@ -1,0 +1,4 @@
+export PORT=9001
+export CLIENT_SECRET=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
+export CLIENT_ID=942606144781-d1nlf55298ld772qd9d4h093qnebplpd.apps.googleusercontent.com
+export OAUTHLIB_INSECURE_TRANSPORT=1
